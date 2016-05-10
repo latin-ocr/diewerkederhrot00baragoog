@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./diewerkederhrot00baragoog_0119.png"; bbox 0 0 3022 4982; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 101 1899 1042 2034">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 101 1899 1042 2083">
+     <span class='ocr_line' id='line_1_1' title="bbox 101 1899 1042 2034; baseline 0.001 -5"><span class='ocrx_word' id='word_1_1' title='bbox 101 1999 105 2007; x_wconf 80' lang='lat'><em>.</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 191 1899 290 2034; x_wconf 89' lang='lat' dir='ltr'><strong>De</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 340 1900 718 2033; x_wconf 80' lang='lat' dir='ltr'><strong>ascensione</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 764 1899 1042 2034; x_wconf 85' lang='lat' dir='ltr'><strong>Domini.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 99 2109 1125 2396">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 99 2109 1125 2396">
+     <span class='ocr_line' id='line_1_2' title="bbox 99 2109 1125 2266; baseline 0 -28"><span class='ocrx_word' id='word_1_5' title='bbox 99 2139 234 2238; x_wconf 78' lang='lat' dir='ltr'><strong>liano</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 245 2139 582 2241; x_wconf 80' lang='lat' dir='ltr'><strong>narrationem</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 595 2133 846 2238; x_wconf 71' lang='lat' dir='ltr'><strong>iohannes</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 866 2109 1125 2266; x_wconf 75' lang='lat' dir='ltr'><strong>episeopus</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 147 2293 1076 2396; baseline -0.001 -3"><span class='ocrx_word' id='word_1_9' title='bbox 147 2295 465 2396; x_wconf 68' lang='lat' dir='ltr'><strong>neraeoonio</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 487 2297 544 2394; x_wconf 86' lang='lat' dir='ltr'><strong>in</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 565 2295 784 2394; x_wconf 75' lang='lat' dir='ltr'><strong>latinum</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 801 2293 1076 2394; x_wconf 63' lang='lat' dir='ltr'><strong>transtulit</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 483 2631 740 2644">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 483 2631 740 2644">
+     <span class='ocr_line' id='line_1_4' title="bbox 483 2631 740 2644; baseline 0 -2"><span class='ocrx_word' id='word_1_13' title='bbox 483 2631 740 2644; x_wconf 57' lang='lat' dir='ltr'><strong>m—</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1516 4982">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1516 4982">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 1516 4982; baseline 0 0"><span class='ocrx_word' id='word_1_14' title='bbox 0 0 1516 4982; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
